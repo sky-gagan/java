@@ -1,2 +1,2 @@
 He is a boy.
-age - > 12
+Age - > 12
